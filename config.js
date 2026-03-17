@@ -23,7 +23,7 @@ global.lidOwners = [
 ];
 
 global.owner = [
-  ['559296077349', 'ⁿᵏGwee⚝', true],
+  ['559296077349', '👑 Ehl villano 👑', true],
   ['50259727165', 'MOD-DECO', true],
   ['5217551392489', 'MOD-Jaz', true],
   ['5217773461176', 'MOD-ALEXA', true],
@@ -41,11 +41,11 @@ global.neoxr = {
 };
 
 global.packname = 'Sticker';
-global.author = 'Nekotina';
-global.wm = 'Neko';
-global.titulowm = 'Neko';
-global.titulowm2 = `Nekotinabot`
-global.igfg = 'Nekobot';
+global.author = 'Luna-Botv6';
+global.wm = 'Luna-Botv6';
+global.titulowm = 'Luna-Botv6';
+global.titulowm2 = `Luna-Botv6`
+global.igfg = 'Luna-Botv6';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -65,10 +65,10 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nNekotina`;
-global.gt = 'neko club';
-global.mysticbot = 'Nekobot';
-global.channel = 'https://whatsapp.com/channel/0029VaCDajZ9WtBvBZy76k2h';
+global.wm2 = `${dia} ${fecha}\nLuna-Botv5`;
+global.gt = 'Luna-Botv6';
+global.mysticbot = 'Luna-Botv6';
+global.channel = '';
 global.md = '';
 global.mysticbot = '';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
