@@ -37,7 +37,7 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 global.BASE_API_SKYNEX = "https://skynex.boxmine.xyz";
 global.neoxr = {
   url: 'https://api.neoxr.eu/api',  // URL de la API de Neoxr
-  key: 'GataDios',               // Reemplaza 'TU_API_KEY' con tu clave de API de Neoxr
+  key: 'JwqBel',               // Reemplaza 'TU_API_KEY' con tu clave de API de Neoxr
 };
 
 global.packname = 'Sticker';
